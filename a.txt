@@ -5,3 +5,4 @@ testing 3
 testing 4
 testing 5
 testing 6
+test for failure a1.txt no file
