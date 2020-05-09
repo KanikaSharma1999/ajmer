@@ -8,3 +8,4 @@ testing 6
 test for failure a1.txt no file
 final test for failure
 this is done send to test
+test for rename
